@@ -31,7 +31,7 @@ python3 -m bot
 ```
 - Deploying to Heroku (Optional) (Not Suitable for very big Clones!)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chammiii/Telegram-CloneBot/tree/master)
 
 # Using service accounts for uploading to avoid user rate limit
 For Service Account to work, you must set USE_SERVICE_ACCOUNTS=True in config file or environment variables
